@@ -1,0 +1,130 @@
+[
+  {
+    "@id": "http://opendatacommunities.org/id/geography/administration/lsoa/E01033735",
+    "@type": [
+      "http://opendatacommunities.org/def/ontology/admingeo/lsoa",
+      "http://publishmydata.com/def/ontology/foi/Feature"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@language": "en",
+        "@value": "Greenwich 004G E01033735"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#note": [
+      {
+        "@value": "Live"
+      }
+    ],
+    "http://purl.org/dc/terms/replaces": [
+      {
+        "@id": "http://opendatacommunities.org/id/geography/lsoa/E01001707"
+      }
+    ],
+    "http://www.w3.org/2004/02/skos/core#notation": [
+      {
+        "@value": "E01033735"
+      }
+    ],
+    "http://data.ordnancesurvey.co.uk/ontology/spatialrelations/northing": [
+      {
+        "@value": "178946"
+      }
+    ],
+    "http://data.ordnancesurvey.co.uk/ontology/spatialrelations/easting": [
+      {
+        "@value": "543463"
+      }
+    ],
+    "http://data.ordnancesurvey.co.uk/ontology/admingeo/inDistrict": [
+      {
+        "@id": "http://opendatacommunities.org/id/geography/administration/lonb/E09000011"
+      }
+    ],
+    "http://www.w3.org/2002/07/owl#sameAs": [
+      {
+        "@id": "http://statistics.data.gov.uk/id/statistical-geography/E01033735"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#lat": [
+      {
+        "@value": "51.491266"
+      }
+    ],
+    "http://www.w3.org/2003/01/geo/wgs84_pos#long": [
+      {
+        "@value": "0.06509"
+      }
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#start": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2011-12-31T00:00:00Z"
+      }
+    ],
+    "http://statistics.data.gov.uk/def/statistical-entity#code": [
+      {
+        "@id": "http://statistics.data.gov.uk/id/statistical-entity/E01"
+      }
+    ],
+    "http://data.ordnancesurvey.co.uk/ontology/admingeo/inDistrict2015": [
+      {
+        "@id": "http://opendatacommunities.org/id/geography/administration/lonb/E09000011"
+      }
+    ],
+    "http://publishmydata.com/def/ontology/foi/active": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#boolean",
+        "@value": "true"
+      }
+    ],
+    "http://publishmydata.com/def/ontology/foi/memberOf": [
+      {
+        "@id": "http://opendatacommunities.org/def/foi/collection/lsoas"
+      }
+    ],
+    "http://publishmydata.com/def/ontology/foi/within": [
+      {
+        "@id": "http://opendatacommunities.org/id/geography/administration/ctry/E92000001"
+      },
+      {
+        "@id": "http://opendatacommunities.org/id/geography/administration/lonb/E09000011"
+      },
+      {
+        "@id": "http://opendatacommunities.org/id/geography/administration/rgn/E12000007"
+      },
+      {
+        "@id": "http://opendatacommunities.org/id/geography/administration/gb/K03000001"
+      },
+      {
+        "@id": "http://opendatacommunities.org/id/geography/administration/uk/K02000001"
+      }
+    ],
+    "http://publishmydata.com/def/ontology/foi/parent": [
+      {
+        "@id": "http://opendatacommunities.org/id/geography/administration/lonb/E09000011"
+      }
+    ],
+    "http://publishmydata.com/def/ontology/foi/displayName": [
+      {
+        "@value": "Greenwich 004G"
+      }
+    ],
+    "http://publishmydata.com/def/ontology/foi/code": [
+      {
+        "@value": "E01033735"
+      }
+    ],
+    "http://publishmydata.com/def/ontology/foi/activeFrom": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#date",
+        "@value": "2011-12-31"
+      }
+    ],
+    "http://www.opengis.net/ont/geosparql#hasGeometry": [
+      {
+        "@id": "http://opendatacommunities.org/id/geography/administration/lsoa/E01033735/geometry"
+      }
+    ]
+  }
+]
